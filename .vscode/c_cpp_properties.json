@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/gyubuntu/Tools/Cartographer/install_isolated/include/**",
+        "/home/gyubuntu/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/gyubuntu/catkin_ws/src/manipulator_test/include/**",
+        "/home/gyubuntu/catkin_ws/src/turtlebot_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
